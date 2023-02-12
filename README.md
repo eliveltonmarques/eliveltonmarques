@@ -29,7 +29,7 @@
 
 ---
 
-<a href="https://github.com/eliveltonmarques/eliveltonmarques">
+<a href="https://github.com/eliveltonmarques/eliveltonmarques/Fit_app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eliveltonmarques&repo=Fit_app&theme=github_dark&show_owner=true" />
 </a>
 <a href="https://github.com/eliveltonmarques/Clima_app">
