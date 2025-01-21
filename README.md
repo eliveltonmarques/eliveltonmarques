@@ -4,7 +4,7 @@
    <h3 align="center">Hi 👋! sou Elivelton 👨🏻‍💻</h3>
 </p>
 
-<p align="center">Sou <strong>Estudante do curso Técnico em Informática para Internet</strong><br />👇!</p>
+<p align="center"><br />👇!</p>
 <p align="center">
    <a href="https://twitch.tv/# target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="#" height="28px" width="28px" />
