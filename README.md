@@ -29,15 +29,4 @@
 
 ---
 
-<a href="https://github.com/eliveltonmarques/Fit_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eliveltonmarques&repo=Fit_app&theme=github_dark&show_owner=true" />
-</a>
-<a href="https://github.com/eliveltonmarques/Clima_app">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=eliveltonmarques&repo=Clima_app&theme=github_dark&show_owner=true" />
-</a>
-<br></br>
-
-
----
-
 <p align="center"><a href="https://github.com/eliveltonmarques"/><img align="center" src="https://github-readme-stats.vercel.app/api?username=eliveltonmarques&count_private=true&show_icons=true&theme=github_dark" alt="eliveltonmarques"/></p>
